@@ -1,0 +1,1 @@
+# jaronVW_ template: Joomla introduction template
